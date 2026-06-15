@@ -3,6 +3,7 @@
 *.sam
 *.fastq
 *.gz
+*.sra
 
 # Heavy folders
 aligned/
