@@ -1,0 +1,16 @@
+# Large bioinformatics files
+*.bam
+*.sam
+*.fastq
+*.gz
+
+# Heavy folders
+aligned/
+raw/
+trimmed/
+qc/
+genome/
+
+# R outputs
+Rplots.pdf
+Rplots1.pdf

@@ -1,0 +1,15 @@
+Status	infected_sorted.bam	control_sorted.bam
+Assigned	8015774	11327259
+Unassigned_Unmapped	13449563	324285
+Unassigned_Read_Type	0	0
+Unassigned_Singleton	0	0
+Unassigned_MappingQuality	0	0
+Unassigned_Chimera	0	0
+Unassigned_FragmentLength	0	0
+Unassigned_Duplicate	0	0
+Unassigned_MultiMapping	2886000	8555173
+Unassigned_Secondary	0	0
+Unassigned_NonSplit	0	0
+Unassigned_NoFeatures	5676839	5848984
+Unassigned_Overlapping_Length	0	0
+Unassigned_Ambiguity	943508	1454152
